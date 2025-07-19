@@ -1,6 +1,6 @@
 [
   {"name":"111","description":"descr 111","pictureName":"111.png","cost":111},
   {"name":"222","description":"descr 222","pictureName":"222.png","cost":222},
-  {"name":"333","description":"descr 333","pictureName":"333.png","cost":333}
+  {"name":"333","description":"descr 333","pictureName":"333.png","cost":333},
   {"name":"444","description":"descr 444","pictureName":"444.png","cost":444}
 ]
